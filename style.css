@@ -1,0 +1,32 @@
+
+body {
+    text-align: center;
+    font-family: Arial;
+    background-color: lightblue;
+}
+
+h2 {
+    color: darkblue;
+}
+
+input {
+    padding: 8px;
+    margin: 5px;
+}
+
+button {
+    background-color: blue;
+    color: white;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+}
+
+#exam {
+    display: none;
+    margin-top: 20px;
+}
+
+#output {
+    color: green;
+}
